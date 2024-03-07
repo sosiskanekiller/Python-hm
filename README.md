@@ -1,8 +1,2 @@
-          ／＞　 フ
-　　　　　| 　_　 _|
-　 　　　／`ミ _x 彡
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)_)
-　＼二つ
+#pip install auto-py-to-exe
+auto-py-to-exe
